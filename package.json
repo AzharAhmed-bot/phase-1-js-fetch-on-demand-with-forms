@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mocha-multi-reporters": "^1.5.1"
+  }
+}
